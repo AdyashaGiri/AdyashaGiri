@@ -1,22 +1,24 @@
 <div align="center">
 
-<!-- 1. HEADER BANNER BLOCK -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop" alt="Welcome Header Banner" width="100%" />
+<!-- HEADER BANNER BLOCK -->
+<img src="C:\Users\Asus\Downloads\Black and Gray Minimalist LinkedIn Banner (3).png" width="100%" />
 
 <br/>
 
-<!-- 2. SOCIALS / CONNECT BUTTON MATRIX -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=true)](https://www.linkedin.com/in/adyasha-giri/)
+### Connect with me
+
+<!-- Minimalist Pill Badges -->
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97%20ABOUT%20ME-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyasha-giri/)
 &nbsp;
-[![Pinterest](https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adyashapilani/)
+[![Pinterest](https://img.shields.io/badge/%F0%9F%93%8C%20PINTEREST-000000?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adyashapilani/)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adyasha.pilani@gmail.com)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-000000?style=flat&logo=gmail&logoColor=white)](mailto:adyasha.pilani@gmail.com)
 
 </div>
 
 ---
 
-## Must-Try Projects
+<h3 align="center">MyProjects</h3>
 
 <table border="0">
   <tr>
@@ -63,82 +65,62 @@
 
 ---
 
-## About me
+<h3 align="center">About me</h3>
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <p>Hello! I am a third year engineering student passionate about bridging the gap between data-driven insights and scalable web engineering.</p>
-      <p>My core toolkit spans Python, React, Node.js, and machine learning pipelines, with a strong interest in building real-time collaborative systems and optimized backends.</p>
-      <p>Driven by innovation, I love collaborating on impactful software projects and hackathons, while balancing my technical side by leading and organizing vibrant student communities.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Minimalist Floating Space/Tech Graphic matching the right column image in image_2ec3e6.png -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0djg0NXJud290cjNsc3B5YmdtN3M0Y3g5bW01M3N5YTI5OHp0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deNxG490O9S4S9SIsG/giphy.gif" width="160px" alt="Profile Asset" />
-    </td>
-  </tr>
-</table>
+<p align="center">Hello, I'm <strong>Adyasha Giri</strong> — a third year engineering student passionate about bridging the gap between data-driven insights and scalable web engineering. I value structure, performance, and long-term maintainability over hype.</p>
 
 <div align="center">
-  <strong>Full-Stack Developer & Data Engineering Enthusiast</strong><br/>
-  React / Node.js / Python / Machine Learning Pipelines<br/>
-  Modern UI & Distributed Systems Architecture
+  Full-Stack Developer<br/>
+  React / Node.js / TypeScript<br/>
+  Modern UI & clean architecture<br/>
+  Strong GitHub collaboration mindset
 </div>
 
 ---
 
-## Technologies
+<h3 align="center">Technologies</h3>
 
-<div align="center">
+<h4 align="center">Core Technologies</h4>
+<p align="center">
+  <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C++</code> &nbsp; <code>SQL</code>
+</p>
 
-<!-- Monochromatic/Dark Accent Badges grouping your stack precisely like the target template -->
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Scikit-Learn</code>
+</p>
 
-<br/>
-
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<h4 align="center">Database & DevOps</h4>
+<p align="center">
+  <code>MongoDB</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MySQL</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS</code> &nbsp; <code>Git</code> &nbsp; <code>Nginx</code>
+</p>
 
 ---
 
-## Statistics
+<h3 align="center">Statistics</h3>
+
+<p align="center">Adyasha's GitHub Stats</p>
 
 <div align="center">
-
-<!-- Dual Metrics Row Component Layout -->
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Main Repository Stats" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdyashaGiri&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&ring_color=ff79c6&text_bold=false&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=AdyashaGiri&theme=dark&hide_border=true" alt="Contribution Streak Activity" />
+      <img src="https://github-readme-stats.shion.dev/api?username=AdyashaGiri&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&ring_color=ff79c6&text_bold=false&hide_border=true&include_all_commits=true&count_private=true" alt="Main Repository Stats" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 3. DETAILED ANALYTIC TIMELINE WAVE (BOTTOM ELEMENT IN IMAGE_2EC3E6.PNG) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdyashaGiri&theme=github-dark-v2&hide_border=true&area=true" width="100%" alt="Personal Contribution Timeline Graph" />
+<p>Contribution Streak</p>
+<img src="https://streak-stats.demolab.com/?user=AdyashaGiri&background=0d1117&title=bd93f9&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakNum=8be9fd&sideLabels=f8f8f2&hide_border=true" alt="Contribution Streak Activity" />
+
+<br/><br/>
+
+<p>Contribution Graph</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdyashaGiri&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ff79c6&area=true&area_color=ff79c6&hide_border=true" width="100%" alt="Personal Contribution Timeline Graph" />
 
 </div>
