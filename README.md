@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/0ba289f2-88bf-4721-b76b-e37c08598f5c" />
+<img width="1340" height="563" alt="Screenshot 2026-06-19 203608" src="https://github.com/user-attachments/assets/1926280c-6395-4ab8-a4d8-28ed43d21851" />
+
 <div align="center">
 
 <!-- HEADER BANNER BLOCK -->
