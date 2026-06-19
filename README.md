@@ -1,4 +1,4 @@
-<img width="1340" height="563" alt="Screenshot 2026-06-19 203608" src="https://github.com/user-attachments/assets/8c73943d-2708-4045-8158-191c55f6c845" />
+<img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/0e560363-c0e2-4ec0-8991-e3f9e51d983f" />
 
 
 <div align="center">
