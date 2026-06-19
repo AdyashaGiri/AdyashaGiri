@@ -6,11 +6,58 @@
 <br/>
 
 ### Connect with me
-
-<!-- Minimalist Pill Badges adjusted for your networks -->
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyasha-giri/)
 [![Pinterest](https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adyashapilani/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adyasha.pilani@gmail.com)
+
+</div>
+
+---
+
+## Must-Try Projects
+
+<table>
+  <tr>
+    <!-- Project 1: Editoroom -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Editoroom">Editoroom</a></h3>
+      <blockquote>Production-grade multiplayer IDE workspace utilizing Yjs (CRDT) and Socket.io.</blockquote>
+      <p>Engineered for distributed, real-time text synchronization with eventual state convergence.</p>
+      <ul>
+        <li><strong>CRDT Integration</strong> — Implemented conflict-free replicated data types for smooth collaborative editing.</li>
+        <li><strong>Infrastructure</strong> — Containerized with Docker to ensure predictable deployment and runtime environments.</li>
+      </ul>
+      <code>JavaScript</code> <code>Socket.io</code> <code>Docker</code> <code>Yjs</code>
+    </td>
+    <!-- Project 2: Vendor Invoice Intelligence System -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Vendor-Invoice-Intelligence-System-focused-on-Freight-Cost-Prediction-Invoice-Risk-Flagging">Invoice Intelligence System</a></h3>
+      <blockquote>Machine Learning system focused on freight cost prediction and invoice risk flagging.</blockquote>
+      <p>An end-to-end predictive framework utilizing regression and classification models to mitigate corporate financial leakage.</p>
+      <ul>
+        <li><strong>Risk Automation</strong> — Identifies anomalous invoices using statistical risk-profiling.</li>
+        <li><strong>ML Pipelines</strong> — Built data-driven cost estimation modules for predictive budgeting.</li>
+      </ul>
+      <code>Python</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Jupyter</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: Carvyn -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Carvyn">Carvyn</a></h3>
+      <blockquote>A car pooling website designed specifically for college students.</blockquote>
+      <p>A web application focused on simplifying and optimizing daily student commutes securely.</p>
+      <code>TypeScript</code> <code>React</code> <code>Node.js</code>
+    </td>
+    <!-- Project 4: Travellato -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Travellato">Travellato</a></h3>
+      <blockquote>An AI-powered platform to plan your trip itinerary.</blockquote>
+      <p>Automates travel planning by dynamically processing user preferences into structured schedules.</p>
+      <code>TypeScript</code> <code>Next.js</code> <code>AI Engineering</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,56 +71,18 @@
       <p>Driven by innovation, I love collaborating on impactful software projects and hackathons, while balancing my technical side by leading and organizing vibrant student communities.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Minimalist floating astronaut/matrix style GIF as seen in image_394089.png -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0djg0NXJud290cjNsc3B5YmdtN3M0Y3g5bW01M3N5YTI5OHp0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deNxG490O9S4S9SIsG/giphy.gif" width="160px" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <strong>Full-Stack Developer & Data Engineering Enthusiast</strong><br/>
-  React / Node.js / Python / Machine Learning Pipelines<br/>
-  Modern UI & Distributed Systems Architecture
-</div>
-
 ---
 
-## Technologies
+## Technologies & Stack
 
-### Core Technologies
-<code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C++</code> &nbsp; <code>SQL</code>
-
-### Frameworks & Libraries
-<code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Scikit-Learn</code>
-
-### Database & DevOps
-<code>MongoDB</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MySQL</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS</code> &nbsp; <code>Git</code> &nbsp; <code>Nginx</code>
-
----
-
-## Statistics
-
-<!-- Clean high-contrast side-by-side stats matching image_3940c4.png -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdyashaGiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Centralized Streak Counter -->
-<img src="https://streak-stats.demolab.com/?user=AdyashaGiri&theme=dark&hide_border=true" alt="Contribution Streak" />
-
-<br/><br/>
-
-<!-- Dynamic Activity Graph from image_3940c4.png and image_394089.png -->
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdyashaGiri&theme=github-dark-v2&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-</div>
+```text
+Languages   Python · TypeScript · JavaScript · Java · C++ · SQL · HTML5 · CSS3
+Frameworks  React · Next.js · Node.js · Express.js · Django · Flask · Angular.js
+Data / ML   Scikit-Learn · NumPy · Pandas · Matplotlib · Anaconda · Power BI
+Database    MongoDB · Postgres · SQLite · MySQL · Supabase · Prisma · JWT
+DevOps      Docker · AWS · Git · GitHub · Nginx · Vercel · Netlify · Heroku
