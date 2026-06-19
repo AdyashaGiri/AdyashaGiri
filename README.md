@@ -1,15 +1,86 @@
-# 💫 About Me:
-I am a third year engineering student passionate about bridging the gap between data-driven insights and scalable web engineering. My core toolkit spans Python, React, Node.js, and machine learning pipelines, with a strong interest in building real-time collaborative systems and optimized backends. Driven by innovation, I love collaborating on impactful software projects and hackathons, while balancing my technical side by leading and organizing vibrant student communities.
+<div align="center">
+  <h1>ADYASHA GIRI</h1>
+  
+  <h3>I bridge the gap between data-driven insights and scalable web engineering.</h3>
+  <p>Full-Stack Engineering • Machine Learning Pipelines • Distributed Systems</p>
 
+  Email: **adyasha.pilani@gmail.com** &nbsp;&nbsp;&nbsp;&nbsp; Connect: **[LinkedIn](https://www.linkedin.com/in/adyasha-giri/)** · **[Pinterest](https://pinterest.com/https://in.pinterest.com/adyashapilani/)**
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adyasha-giri/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adyashapilani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adyasha.pilani@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AdyashaGiri&theme=highcontrast&hide_border=true)<br/>
+## Must-Try Projects
+
+<table>
+  <tr>
+    <!-- Project 1: Editoroom -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Editoroom">Editoroom</a></h3>
+      <blockquote>Production-grade multiplayer IDE workspace utilizing Yjs (CRDT) and Socket.io.</blockquote>
+      <p>Engineered for distributed, real-time text synchronization with eventual state convergence.</p>
+      <ul>
+        <li><strong>CRDT Integration</strong> — Implemented conflict-free replicated data types for smooth collaborative editing.</li>
+        <li><strong>Infrastructure</strong> — Containerized with Docker to ensure predictable deployment and runtime environments.</li>
+      </ul>
+      <code>JavaScript</code> <code>Socket.io</code> <code>Docker</code> <code>Yjs</code>
+    </td>
+    <!-- Project 2: Vendor Invoice Intelligence System -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Vendor-Invoice-Intelligence-System-focused-on-Freight-Cost-Prediction-Invoice-Risk-Flagging">Invoice Intelligence System</a></h3>
+      <blockquote>Machine Learning system focused on freight cost prediction and invoice risk flagging.</blockquote>
+      <p>An end-to-end predictive framework utilizing regression and classification models to mitigate corporate financial leakage.</p>
+      <ul>
+        <li><strong>Risk Automation</strong> — Identifies anomalous invoices using statistical risk-profiling.</li>
+        <li><strong>ML Pipelines</strong> — Built data-driven cost estimation modules for predictive budgeting.</li>
+      </ul>
+      <code>Python</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Jupyter</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: Carvyn -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Carvyn">Carvyn</a></h3>
+      <blockquote>A car pooling website designed specifically for college students.</blockquote>
+      <p>A web application focused on simplifying and optimizing daily student commutes securely.</p>
+      <code>TypeScript</code> <code>React</code> <code>Node.js</code>
+    </td>
+    <!-- Project 4: Travellato -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AdyashaGiri/Travellato">Travellato</a></h3>
+      <blockquote>An AI-powered platform to plan your trip itinerary.</blockquote>
+      <p>Automates travel planning by dynamically processing user preferences into structured schedules.</p>
+      <code>TypeScript</code> <code>Next.js</code> <code>AI Engineering</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub at a Glance
+
+<div align="center">
+
+<!-- Combined Stats Layout -->
+![](https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=AdyashaGiri&theme=highcontrast&hide_border=true)
+
+<br/>
+
+### Most Used Languages
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdyashaGiri&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## Stack
+
+```text
+Languages   Python · TypeScript · JavaScript · Java · C++ · SQL · HTML5 · CSS3
+Frameworks  React · Next.js · Node.js · Express.js · Django · Flask · Angular.js
+Data / ML   Scikit-Learn · NumPy · Pandas · Matplotlib · Anaconda · Power BI
+Database    MongoDB · Postgres · SQLite · MySQL · Supabase · Prisma · JWT
+DevOps      Docker · AWS · Git · GitHub · Nginx · Vercel · Netlify · Heroku
+Tools       Postman · Selenium · Figma · Canva · Socket.io
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
