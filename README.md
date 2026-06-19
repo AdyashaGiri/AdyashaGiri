@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/fa652a88-af2c-4bd0-8859-18c460b870b3" />
-
+<img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/ff5b9823-3fc5-4fa9-8335-ac566395804f" />
 
 
 <div align="center">
