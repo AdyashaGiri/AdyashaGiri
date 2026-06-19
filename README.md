@@ -82,5 +82,3 @@ Data / ML   Scikit-Learn · NumPy · Pandas · Matplotlib · Anaconda · Power B
 Database    MongoDB · Postgres · SQLite · MySQL · Supabase · Prisma · JWT
 DevOps      Docker · AWS · Git · GitHub · Nginx · Vercel · Netlify · Heroku
 Tools       Postman · Selenium · Figma · Canva · Socket.io
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
