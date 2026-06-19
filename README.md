@@ -1,17 +1,24 @@
 <div align="center">
-  <h1>ADYASHA GIRI</h1>
-  
-  <h3>I bridge the gap between data-driven insights and scalable web engineering.</h3>
-  <p>Full-Stack Engineering • Machine Learning Pipelines • Distributed Systems</p>
 
-  Email: **adyasha.pilani@gmail.com** &nbsp;&nbsp;&nbsp;&nbsp; Connect: **[LinkedIn](https://www.linkedin.com/in/adyasha-giri/)** · **[Pinterest](https://pinterest.com/https://in.pinterest.com/adyashapilani/)**
+<!-- 1. HEADER BANNER BLOCK -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop" alt="Welcome Header Banner" width="100%" />
+
+<br/>
+
+<!-- 2. SOCIALS / CONNECT BUTTON MATRIX -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=true)](https://www.linkedin.com/in/adyasha-giri/)
+&nbsp;
+[![Pinterest](https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adyashapilani/)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adyasha.pilani@gmail.com)
+
 </div>
 
 ---
 
 ## Must-Try Projects
 
-<table>
+<table border="0">
   <tr>
     <!-- Project 1: Editoroom -->
     <td width="50%" valign="top">
@@ -58,33 +65,80 @@
 
 ## About me
 
-I am a third year engineering student passionate about bridging the gap between data-driven insights and scalable web engineering. My core toolkit spans Python, React, Node.js, and machine learning pipelines, with a strong interest in building real-time collaborative systems and optimized backends. Driven by innovation, I love collaborating on impactful software projects and hackathons, while balancing my technical side by leading and organizing vibrant student communities.
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p>Hello! I am a third year engineering student passionate about bridging the gap between data-driven insights and scalable web engineering.</p>
+      <p>My core toolkit spans Python, React, Node.js, and machine learning pipelines, with a strong interest in building real-time collaborative systems and optimized backends.</p>
+      <p>Driven by innovation, I love collaborating on impactful software projects and hackathons, while balancing my technical side by leading and organizing vibrant student communities.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Minimalist Floating Space/Tech Graphic matching the right column image in image_2ec3e6.png -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0djg0NXJud290cjNsc3B5YmdtN3M0Y3g5bW01M3N5YTI5OHp0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deNxG490O9S4S9SIsG/giphy.gif" width="160px" alt="Profile Asset" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <strong>Full-Stack Developer & Data Engineering Enthusiast</strong><br/>
+  React / Node.js / Python / Machine Learning Pipelines<br/>
+  Modern UI & Distributed Systems Architecture
+</div>
 
 ---
 
-## GitHub at a Glance
+## Technologies
 
 <div align="center">
 
-<!-- Combined Stats Layout -->
-![](https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=AdyashaGiri&theme=highcontrast&hide_border=true)
+<!-- Monochromatic/Dark Accent Badges grouping your stack precisely like the target template -->
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
-### Most Used Languages
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdyashaGiri&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Stack
+## Statistics
 
-```text
-Languages   Python · TypeScript · JavaScript · Java · C++ · SQL · HTML5 · CSS3
-Frameworks  React · Next.js · Node.js · Express.js · Django · Flask · Angular.js
-Data / ML   Scikit-Learn · NumPy · Pandas · Matplotlib · Anaconda · Power BI
-Database    MongoDB · Postgres · SQLite · MySQL · Supabase · Prisma · JWT
-DevOps      Docker · AWS · Git · GitHub · Nginx · Vercel · Netlify · Heroku
-Tools       Postman · Selenium · Figma · Canva · Socket.io
+<div align="center">
+
+<!-- Dual Metrics Row Component Layout -->
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.shion.dev/api?username=AdyashaGiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Main Repository Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=AdyashaGiri&theme=dark&hide_border=true" alt="Contribution Streak Activity" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 3. DETAILED ANALYTIC TIMELINE WAVE (BOTTOM ELEMENT IN IMAGE_2EC3E6.PNG) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdyashaGiri&theme=github-dark-v2&hide_border=true&area=true" width="100%" alt="Personal Contribution Timeline Graph" />
+
+</div>
